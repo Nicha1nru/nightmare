@@ -5,8 +5,7 @@ This program overwrites all data in a folder.
 # How it works
 nightmare <path_to_folder>
 
-#How to install
-
+# How to install
 First clone this repository. Then change the "lib = ctypes.CDLL('/home/niggachainailayer2/c/nightmare/c/overwrite.so')  # Ensure this path is correct" line to where overwrite.so is stored on your system.
 And then run the following commands:
 
